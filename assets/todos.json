@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread, and sugar",
+    "complete": false
+  },
+  {
+    "title": "Workout",
+    "description": "Run, lift weights, and stretch",
+    "complete": false
+  },
+  {
+    "title": "Shopping",
+    "description": "Clothes, shoes, and accessories",
+    "complete": false
+  },
+  {
+    "title": "Clean house",
+    "description": "Sweep, mop, and dust",
+    "complete": true
+  },
+  {
+    "title": "Study",
+    "description": "Notes, books, and flashcards",
+    "complete": true
+  },
+  {
+    "title": "Cook dinner",
+    "description": "Chicken, rice, and vegetables",
+    "complete": false
+  },
+  {
+    "title": "Watch movie",
+    "description": "Action, comedy, and drama",
+    "complete": false
+  },
+  {
+    "title": "Read book",
+    "description": "Fiction, non-fiction, and mystery",
+    "complete": true
+  },
+  {
+    "title": "Social media",
+    "description": "Facebook, Twitter, and Instagram",
+    "complete": false
+  },
+  {
+    "title": "Paint the house",
+    "description": "Buy some paint and paint the house",
+    "complete": false
+  },
+  {
+    "title": "Go to the Barbershop",
+    "description": "Get a haircut and braids",
+    "complete": false
+  },
+  {
+    "title": "Paint the house",
+    "description": "Buy some paint and paint the house",
+    "complete": false
+  }
+]
